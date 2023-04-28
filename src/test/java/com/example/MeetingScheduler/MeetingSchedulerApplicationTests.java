@@ -64,7 +64,6 @@ class MeetingSchedulerApplicationTests {
 		Room room1 = new Room(1, 1);
 		Room room2 = new Room(2, 1);
 		Room room3 = new Room(3, 1);
-
 		Scheduler.addRoom(room1);
 		Scheduler.addRoom(room2);
 		Scheduler.addRoom(room3);
